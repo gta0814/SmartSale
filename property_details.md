@@ -20,7 +20,7 @@
 - **地理优势 (Location Perks)**: 门口即是未来的 Eglinton West LRT 轻轨，近 Highway 401 & 427，交通极为便利
 
 ## 卖家说明 (Seller Notes)
-- **核心诉求**: 急售套现 (Urgent Liquidation)
+- **核心诉求**: 测试市场以获取最佳利润 (Test Market / Not Urgent - Maximize Return)
 - **交易模式**: 房东私卖 (FSBO - For Sale By Owner)，不设卖家经纪
 - **买家经纪政策**: 欢迎带客经纪 (Co-operate with Buyer Agents)
-- **目标售价 (Target Asking Price)**: $541,900 (原价平转，附赠车位升值潜力和 $0 转让费优势)
+- **目标售价 (Target Asking Price)**: $555,000 (带有适度溢价，预留议价空间)
