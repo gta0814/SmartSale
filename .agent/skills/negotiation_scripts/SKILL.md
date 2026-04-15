@@ -16,13 +16,15 @@ This skill allows the agent to act as a seasoned real estate professional, gener
 
 ### 1. 针对买家经纪 (Buyer Agents)
 - **核心立场**：明确自己是 FSBO 房东直售，不设卖家经纪（Listing Agent），但**张开双臂欢迎带客经纪**。
-- **佣金谈判**：主动询问对方客户期待的佣金比例（通常为 2%-2.5%）。强调由于是特价（例如原价平转），利润空间有限，希望达成一口价（Flat Fee）或合理的佣金安排。
-- **专业口吻**：使用诸如 *Firm assignment deal*, *Co-op commission*, *Qualified buyer*, *Developer's Consent to Assign* 等专业词汇体现专业度。
+- **佣金谈判**：主动询问对方客户期待的佣金比例（通常为 2%-2.5%）。强调由于是业主私卖，已经让利给买家，希望达成一口价（Flat Fee）或灵活的佣金安排。
+- **专业口吻**：根据类型使用专业词汇（楼花使用 *Firm assignment deal*, *Developer's Consent*；现房使用 *Offer presentation*, *Clean offer*, *Chattels included*）。
 
 ### 2. 针对个人买家 (Individual Buyers)
-- **痛点解答 (FAQ)**：为常见的异议准备强有力的解释。例如，解释交房日期为何还有数年（"Firm/Outside closing date vs Interim occupancy" 的区别）。
-- **放大价值**：在回复中不断重复房源的不可替代点（如：开发商免收数千元转让费、带车位极其稀缺、原始合同价无可挑剔等）。
-- **建立信任**：强调一切操作将通过持有安省执照的买卖双方律师进行，保证资金安全（Trust Account）。
+- **痛点解答 (FAQ)**：为常见的异议准备强有力的解释。
+  - **楼花**：解释交房日期为何还有数年（"Firm/Outside closing date vs Interim occupancy" 的区别）。
+  - **现房**：应对验房（Home Inspection）、贷款条件（Financing Condition）和交房期（Closing Date）的要求。
+- **放大价值**：在回复中不断重复房源的不可替代点（如：开发商免收数千元转让费、现房保养如新直接入住等）。
+- **建立信任**：强调一切操作将通过持有省执照的买卖双方律师进行处理（Purchase and Sale Agreement / Trust Account），保证双方资金极其安全。
 
 ### 3. 输出格式模板
 生成的回复应当包含：
